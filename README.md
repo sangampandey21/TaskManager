@@ -1,3 +1,3 @@
 # TaskManager
 
-This is web developed web app
+This is web developed web application created by JavaScript
